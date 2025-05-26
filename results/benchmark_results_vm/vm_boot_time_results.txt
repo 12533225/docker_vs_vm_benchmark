@@ -1,0 +1,6 @@
+# Resultados de arranque de VM
+[2025-05-26 12:10:00] 🟢 VM disponible tras 16.32 segundos
+[2025-05-26 12:15:00] 🟢 VM disponible tras 15.78 segundos
+[2025-05-26 12:20:00] 🟢 VM disponible tras 16.11 segundos
+[2025-05-26 12:25:00] 🟢 VM disponible tras 15.95 segundos
+[2025-05-26 12:30:00] 🟢 VM disponible tras 16.02 segundos

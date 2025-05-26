@@ -1,0 +1,6 @@
+# Resultados de arranque de contenedor Docker
+[2025-05-26 12:40:01] ✅ Contenedor arrancó en 0.405 s
+[2025-05-26 12:40:05] ✅ Contenedor arrancó en 0.398 s
+[2025-05-26 12:40:09] ✅ Contenedor arrancó en 0.389 s
+[2025-05-26 12:40:13] ✅ Contenedor arrancó en 0.403 s
+[2025-05-26 12:40:17] ✅ Contenedor arrancó en 0.397 s
